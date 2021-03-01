@@ -7,9 +7,6 @@
   font-family: "Kumbh Sans", sans-serif;
 }
 
-body {
-}
-
 .wrapper {
   height: 100vh;
   display: flex;
@@ -24,7 +21,7 @@ body {
   align-items: center;
   justify-content: center;
   margin: auto;
-  width: 1440px;
+  width: 90vw;
   height: 80vh;
   background: url("./images/bg-pattern-bottom.svg");
   background-repeat: repeat;
